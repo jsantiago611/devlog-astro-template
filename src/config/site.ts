@@ -147,11 +147,11 @@ export const siteConfig: SiteConfig = {
   // ----------------------------------------------------------------------------
   // 1. SITE BRANDING, TITLE & FAVICON
   // ----------------------------------------------------------------------------
-  name: "Prayer Stack",
+  name: "Pray the Psalms",
   logoLetter: "P",
-  title: "DEV.LOG — Personal Dev Blog & Digital Garden",
+  title: "Pray the Psalms — A Prayer Guide for All 150 Psalms",
   description:
-    "A high-performance personal developer blog and digital notebook crafted with Astro, strict TypeScript, and Liquid Glass UI.",
+    "Free prayer guides for all 150 psalms, with commentary and a simple pattern: adore, admit, aspire.",
   url: "https://devlog.example.com",
   favicon: "/favicon.svg", // Place your favicon in public/favicon.svg or public/favicon.ico
   defaultOgImage: "/images/og-default.png",
@@ -161,11 +161,11 @@ export const siteConfig: SiteConfig = {
   // ----------------------------------------------------------------------------
   author: {
     name: "Jonathan James",
-    role: "Software Engineer & Creative Developer",
+    role: "Writer & Creator of Pray the Psalms",
     avatar: "/images/avatar.jpg", // Place your photo in public/images/avatar.jpg
-    bio: "Frontend engineer and creative developer fascinated by the craft of building blazingly fast web apps, liquid glass design systems, and resilient software architectures.",
-    location: "San Francisco, CA",
-    status: "Building the future of spatial web interfaces",
+    bio: "I'm learning to pray the Psalms and writing these guides to help others do the same, one psalm at a time.",
+    location: "AL",
+    status: "Working through Psalm 1",
     social: {
       github: "https://github.com/nivinvysakh/devlog-astro-template",
       twitter: "https://twitter.com",
@@ -178,12 +178,12 @@ export const siteConfig: SiteConfig = {
   // 3. HOME HERO SECTION
   // ----------------------------------------------------------------------------
   hero: {
-    greeting: "Hey, I'm Alex",
-    badge: "Software Engineer • Creative Developer",
+    greeting: "Pray the Psalms",
+    badge: "A prayer guide for all 150 psalms",
     tagline:
-      "Welcome to my personal dev blog and digital notebook. I write about building fast web apps with Astro, mastering strict TypeScript, and crafting tactile Liquid Glass UI.",
+      "For three thousand years, believers have found their words in the Psalms. Each guide helps you pray one: adore who God is, admit where you fall short, and aspire to what he calls you to.",
     primaryButton: {
-      text: "Read My Articles",
+      text: "Read the Articles",
       href: "/blog",
     },
     secondaryButton: {
