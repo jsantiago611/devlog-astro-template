@@ -147,8 +147,8 @@ export const siteConfig: SiteConfig = {
   // ----------------------------------------------------------------------------
   // 1. SITE BRANDING, TITLE & FAVICON
   // ----------------------------------------------------------------------------
-  name: "DEV.LOG",
-  logoLetter: "D",
+  name: "Prayer Stack",
+  logoLetter: "P",
   title: "DEV.LOG — Personal Dev Blog & Digital Garden",
   description:
     "A high-performance personal developer blog and digital notebook crafted with Astro, strict TypeScript, and Liquid Glass UI.",
@@ -160,7 +160,7 @@ export const siteConfig: SiteConfig = {
   // 2. AUTHOR PROFILE (SINGLE AUTHOR FOR ENTIRE SITE)
   // ----------------------------------------------------------------------------
   author: {
-    name: "Alex Morgan",
+    name: "Jonathan James",
     role: "Software Engineer & Creative Developer",
     avatar: "/images/avatar.jpg", // Place your photo in public/images/avatar.jpg
     bio: "Frontend engineer and creative developer fascinated by the craft of building blazingly fast web apps, liquid glass design systems, and resilient software architectures.",
